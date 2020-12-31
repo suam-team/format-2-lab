@@ -4,7 +4,7 @@ Introduction to format string attack lab 2
 
 ## Let's Play
 
-Review the source code [chall.c](/chall.c) and find the bug. Please hack this lab on your own environment, then get the real flag at `ws://format-2.herokuapp.com`.
+Review the source code [chall.c](/chall.c) and find the bug. Please hack this lab on your own environment, then get the real flag at `ws://format-2-lab.herokuapp.com`.
 
 ## WebSocket PWN
 
@@ -52,7 +52,7 @@ Hello World !
 Make sure you have Python 3.7 [installed locally](http://install.python-guide.org). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
 
 ```sh
-$ git clone https://github.com/ErbaZZ/format-2-lab.git
+$ git clone https://github.com/suam-team/format-2-lab.git
 $ cd format-2-lab
 $ docker build -t format-2-lab .
 $ docker run -d --rm -p 1337:1337 -e PORT=1337 -e FLAG=flag{example_flag} -e PASS=example_password format-2-lab

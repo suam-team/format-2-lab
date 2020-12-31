@@ -2,6 +2,6 @@
     "name": "Form@ 2",
     "category": "PWN",
     "author": "ErbaZZ",
-    "flag": "",
+    "flag": "804a42f207afa3e0dfdc62069db27292,39a9721428916dc77ec2f84a1b0d65ae,b8ba9558219e7709708b2c4d9a793642,abda75e8925acec93cb6f15158264cb446fb39f74acce9a8611579ba667b407fc7e344f138aef97177adf4994d4545b28c6c221d7f32ed8fc1cffbd7,798dccd11a62a5219674c062a2d15490",
     "detail": "Introduction to format string attack lab 2"
 }
